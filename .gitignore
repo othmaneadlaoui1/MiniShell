@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# Compiled files
+*.o
+*.out
+minishell
+
+# Temporary files
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
